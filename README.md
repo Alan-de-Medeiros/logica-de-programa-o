@@ -1,5 +1,2 @@
 # LÓGICA DE PROGRAMAÇÃO 
-Essa pastinha é local onde estarão todos os códigos das aulas de lógoca de programação.
-
-## LÓGICA DE PROGRAMAÇÃO
-Esse é o repositório das aulas de lógica de programação do Curso Técnico de Desenvolvimento de Sistemas.
+!(![image](https://github.com/Alan-de-Medeiros/logica-de-programa-o/assets/170477645/aeca53a5-f219-4180-b13f-2bcb5bf6e2d0))
