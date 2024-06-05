@@ -119,7 +119,22 @@ public class FRAME1 extends javax.swing.JFrame {
         double numeroDois = Double.parseDouble(this.Segundo2.getText ());
         String op = this.Meio.getSelectedItem().toString();
         
-        this.Resultado.setText("CHEGOU AQUI");
+        double result = 0.0;
+                
+        if("+".equals(op)){
+            result = numeroUm + numeroDois;
+        }
+        else if (op == "-"){
+            result = numeroUm - numeroDois;
+        } 
+        else if (op == "*"){
+            result = numeroUm * numeroDois; 
+        }
+        else if (op == "/"){
+            result = numeroUm / numeroDois;
+        }
+        
+        this.Resultado.setText(result + "" ); 
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
